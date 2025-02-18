@@ -6,3 +6,4 @@
   * usia
   * gender
   * ttl pemain
+- posisi pemain
