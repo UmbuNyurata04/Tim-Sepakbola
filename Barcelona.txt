@@ -1,0 +1,8 @@
+- sejarah tim
+  *nama tim
+  *asal negara
+  *pendiri tim
+- nama pemain
+  * usia
+  * gender
+  * ttl pemain
