@@ -2,8 +2,16 @@
   *nama tim
   *asal negara
   *pendiri tim
+- nama pelatih
+  * usia
+  * profesi
+  * ttl
 - nama pemain
   * usia
   * gender
   * ttl pemain
 - posisi pemain
+  *GK
+  *CB
+  *CMF
+  *CF
